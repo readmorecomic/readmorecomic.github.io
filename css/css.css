@@ -21,6 +21,15 @@ li {
 	margin-left: auto;
 }
 
+#jquery {
+	cursor: pointer;s
+	border-color: #e0e2d7;
+    border-style: solid;
+    border-width: 0px;
+	border-radius: 20px;
+	background-color: #e0e2d7;
+}
+
 li a {
 	float: left;
 	margin-left: 3vw;
